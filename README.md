@@ -1,3 +1,8 @@
+<!-- Banner -->
+<div align="center">
+  <img src="./images/banner.gif" alt="Banner" width="100%" height="260" />
+</div>
+
 <!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -19,17 +24,29 @@
     </a>
   </div>
 
+###
 ---
 
-### 👋 About Me `< W >`
+<br clear="both">
 
-- 🧑‍💻 My name is..., but you can call me **West**
-- 💻 My main focus is **Back-End Development** with **Java**, and I plan to study **Go** soon
-- 🔐 Passionate about **Cybersecurity** and **Pentesting** as complementary skills
-- 🎯 Always learning, building, and breaking (ethically) 🔧
+<img align="left" height="200" src="./images/image.jpg"  />
+
+###
+<h3 align="left">❄️ About Me &lt; W &gt;</h3>
+
+<p align="left">
+🧑‍💻 My name is..., but you can call me <strong>West</strong><br>
+💻 My main focus is <strong>Back-End Development</strong> with <strong>Java</strong>, and I plan to study <strong>Go</strong> soon<br>
+🔐 Passionate about <strong>Cybersecurity</strong> and <strong>Pentesting</strong> as complementary skills<br>
+🎯 Always learning, building, and breaking (ethically) 🔧
+</p>
+
+###
+
+<br>
+
 
 ---
-
 ### 🛠️ Tech Stack 
 
 <div align="center">
